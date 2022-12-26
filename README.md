@@ -1,3 +1,18 @@
+translate : Accelerating Envoy with the Linux Kernel [Thomas Graf, Covalent]  
+https://www.youtube.com/watch?v=qb16_nYCx5o   
+
+Видео про ускорение InMemory Memcached c помощью eBPF  
+[eBPF] & [ Сетевой стек от Facebook] Оптимизация Memcached  до 16 миллионов запросов в сек на 16 ядерном CPU   
+https://docs.google.com/document/d/1W4ZoeOd_IzUi4m0tqZAtk1jgdaiTsSheZzxpC32--2g/edit   
+
+[eBPF] & [ Сетевой стек от Facebook]    
+Видео про ускорение InMemory Memcached c помощью eBPF   
+BMC Accelerating Memcached using Safe In kernel Caching and Pre stack Processing    
+https://youtu.be/ydEdBfbepFA   
+
+Видео про ускорение Service Mesh c помощью eBPF  и темы безопасности и другие темы с eBPF
+[CNCF] eBPF
+https://www.youtube.com/playlist?list=PLln5c1jsvuY8_rNg0-kdtB96yC-qGnTT2
 # Index
 [Diagrams](#diagrams) <br>
 [API documentation](#api-documentation) <br>
